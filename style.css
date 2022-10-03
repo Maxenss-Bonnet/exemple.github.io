@@ -1,3 +1,30 @@
-h5{
-    background-color: aquamarine;
+body{
+    background-color:darkred;
+    text-align: center;
+    text-transform: capitalize;
+    color: gold;
+    position: relative;
+
+}
+h1{
+    background-color: gold;
+    color:black;
+    border: 2px;
+}
+.norm{
+    font-size:8px;
+}
+img{
+    background-color:transparent;
+}
+footer{
+    position:bottom;
+    bottom:0;
+    left: 0;
+    right: 0;
+
+}
+input{
+    background-color: black;
+    color: darkred;
 }
